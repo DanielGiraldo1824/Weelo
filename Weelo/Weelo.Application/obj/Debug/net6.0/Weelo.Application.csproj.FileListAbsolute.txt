@@ -1,0 +1,17 @@
+D:\Proyectos RENTING\Net6\Weelo.Application\bin\Debug\net6.0\Weelo.Application.deps.json
+D:\Proyectos RENTING\Net6\Weelo.Application\bin\Debug\net6.0\Weelo.Application.dll
+D:\Proyectos RENTING\Net6\Weelo.Application\bin\Debug\net6.0\ref\Weelo.Application.dll
+D:\Proyectos RENTING\Net6\Weelo.Application\bin\Debug\net6.0\Weelo.Application.pdb
+D:\Proyectos RENTING\Net6\Weelo.Application\bin\Debug\net6.0\Weelo.Domain.dll
+D:\Proyectos RENTING\Net6\Weelo.Application\bin\Debug\net6.0\Weelo.Domain.pdb
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.csproj.AssemblyReference.cache
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.Resources.MessageHandler.resources
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.csproj.GenerateResource.cache
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.AssemblyInfoInputs.cache
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.AssemblyInfo.cs
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.csproj.CoreCompileInputs.cache
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.csproj.CopyComplete
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.dll
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\ref\Weelo.Application.dll
+D:\Proyectos RENTING\Net6\Weelo.Application\obj\Debug\net6.0\Weelo.Application.pdb

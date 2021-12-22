@@ -1,0 +1,14 @@
+D:\Proyectos RENTING\Net6\Weelo.Domain\bin\Debug\net6.0\Weelo.Domain.deps.json
+D:\Proyectos RENTING\Net6\Weelo.Domain\bin\Debug\net6.0\Weelo.Domain.dll
+D:\Proyectos RENTING\Net6\Weelo.Domain\bin\Debug\net6.0\ref\Weelo.Domain.dll
+D:\Proyectos RENTING\Net6\Weelo.Domain\bin\Debug\net6.0\Weelo.Domain.pdb
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.csproj.AssemblyReference.cache
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.Resources.MessageHandler.resources
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.csproj.GenerateResource.cache
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.AssemblyInfoInputs.cache
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.AssemblyInfo.cs
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.dll
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\ref\Weelo.Domain.dll
+D:\Proyectos RENTING\Net6\Weelo.Domain\obj\Debug\net6.0\Weelo.Domain.pdb

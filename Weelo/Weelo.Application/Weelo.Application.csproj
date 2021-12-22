@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="automapper" Version="10.1.1" />
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="mediatr" Version="9.0.0" />
+    <PackageReference Include="System.IO.Abstractions" Version="14.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weelo.Domain\Weelo.Domain.csproj" />    
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Resources\MessageHandler.Designer.cs">
+      <DependentUpon>MessageHandler.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\MessageHandler.resx">
+      <LastGenOutput>MessageHandler.Designer.cs</LastGenOutput>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
